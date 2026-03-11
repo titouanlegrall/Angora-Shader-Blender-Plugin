@@ -1,12 +1,11 @@
-LEGAL CODE: AuraShader License 1.0 (Aura-NC-MN)
+LEGAL CODE: Angora Shader License 1.0 (Angora-NC-MN)
+
 DISCLAIMER: THE CREATOR IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. THE CREATOR PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS.
 
 1. Definitions
-"Work": The AuraShader software package, including Python scripts (.py), Geometry Node setups, Shader Node groups, and all associated image textures provided in the assets folder.
-
-"Creator": [Your Name/Alias], the original author and owner of the Work.
-
-"User": The individual or entity exercising rights under this License.
+* "Work": The Angora Shader software package, including Python scripts (.py), Geometry Node setups, Shader Node groups, and all associated image textures provided in the assets folder.
+* "Creator": Titouan LE GRALL, the original author and owner of the Work.
+* "User": The individual or entity exercising rights under this License.
 
 2. License Grant
 Subject to the terms and conditions of this License, the Creator hereby grants the User a worldwide, royalty-free, non-exclusive, perpetual license to use the Work for personal, artistic, and educational purposes.
@@ -15,23 +14,22 @@ Subject to the terms and conditions of this License, the Creator hereby grants t
 The rights granted above are expressly subject to the following limitations:
 
 a. Non-Commercial (NC) Restriction
-The User is NOT authorized to sell, rent, lease, or sub-license the Work, whether in its original or modified form. The Work must remain free of charge for the community. Any direct commercial exploitation of the tool itself (e.g., selling it on marketplaces) is strictly prohibited without prior written consent from the Creator.
+The User is NOT authorized to sell, rent, lease, or sub-license the Work, whether in its original or modified form. The Work must remain free of charge for the community. Any direct commercial exploitation of the tool itself is strictly prohibited without prior written consent from the Creator.
 
 b. Mandatory Notification (MN) Clause
-The User is allowed to modify, adapt, or transform the Work (create "Derivative Works"). However, if the User distributes or publishes a modified version of the Work, they are legally obligated to:
-
-Notify the Creator of the existence and nature of these modifications via the contact information provided below before or at the time of distribution.
-
-Maintain Attribution by clearly stating the original Creator's name and indicating that changes were made to the original work.
+The User is allowed to modify, adapt, or transform the Work. However, if the User distributes or publishes a modified version of the Work, they are legally obligated to:
+1. Notify the Creator of the existence and nature of these modifications via the contact information provided below before or at the time of distribution.
+2. Maintain Attribution by clearly stating the original Creator's name and indicating that changes were made to the original work.
 
 c. Assets Protection
-Brush textures and icons included in the "assets" folder are proprietary. They may not be extracted, repackaged, or redistributed as standalone texture packs or integrated into other commercial products.
+Brush textures and icons included in the "assets" folder are proprietary. They may not be extracted, repackaged, or redistributed as standalone packs.
 
 4. Limitation of Liability and Warranties
-a. The Creator offers the Work "as-is" and makes no representations or warranties of any kind concerning the Work, express, implied, statutory, or otherwise.
+a. The Creator offers the Work "as-is" and makes no representations or warranties of any kind concerning the Work.
 b. In no event shall the Creator be liable to the User for any damages arising out of this License or the use of the Work.
 
 5. Blender GPL Compliance
-In accordance with Blender’s licensing requirements, the Python script components (.py) of this add-on are subject to the GNU General Public License (GPL). However, this License governs the "AuraShader" branding, the specific creative logic of the node systems, and the proprietary visual assets (textures) included in the distribution.
+In accordance with Blender’s licensing requirements, the Python script components (.py) of this add-on are subject to the GNU General Public License (GPL). However, this License governs the "Angora Shader" branding and the proprietary visual assets (textures) included.
 
+***
 Contact for Mandatory Notification: titouan.legrall@gmail.com
