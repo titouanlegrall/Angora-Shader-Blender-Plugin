@@ -59,8 +59,8 @@ A high-end Non-Photorealistic Rendering (NPR) toolkit for **Blender 5.0.0**. Ins
 
 ## ⚠️ Pre-Alpha Notes (v0.0.1)
 
-- **Compatibility:** Optimized for **Blender 5.0.0** and **EEVEE Next**.
-- **Experimental:** This is an early-access build. You may encounter bugs with high-density meshes.
+- **Compatibility:** Optimized for **Blender 5.0.0** and **EEVEE**.
+- **Experimental:** This is an early-access build. You may encounter bugs.
 - **Feedback:** Please open a GitHub Issue for bug reports or feature requests.
 
 ---
@@ -72,5 +72,5 @@ Distributed under the **Angora Shader License 1.0 (Angora-NC-MN)**.
 - **Non-Commercial only.**
 - **Mandatory Notification:** If you distribute a modified version, you must notify the original creator.
 
-**Creator:** [Your Name]  
-**Contact:** [Your Email/Social Link]
+**Creator:** Titouan LE GRALL  
+**Contact:** titouan.legrall@gmail.com
