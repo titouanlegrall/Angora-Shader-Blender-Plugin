@@ -26,7 +26,7 @@ A high-end Non-Photorealistic Rendering (NPR) toolkit for **Blender 5.0.0**. Ins
 
 ## 🛠️ Installation
 
-1. Download the `AngoraShader_v0.0.1.zip` from the [Releases](https://github.com/your-profile/Angora-Shader/releases) page.
+1. Download the `AngoraShader.zip` from the [Releases](https://github.com/titouanlegrall/Angora-Shader-Blender-Plugin/releases) page.
 2. In Blender, go to **Edit > Preferences > Add-ons**.
 3. Click **Install...** and select the `.zip` file.
 4. Enable **Object: Angora Shader**.
